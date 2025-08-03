@@ -1,0 +1,94 @@
+2025-08-03 23:59:29,573 - __main__ - INFO - Starting Event Camera Semantic Segmentation - Mode: train
+2025-08-03 23:59:29,573 - __main__ - INFO - Configuration: event_seg_mamba_optimized
+2025-08-03 23:59:29,573 - __main__ - INFO - Data root: ./data
+2025-08-03 23:59:29,595 - __main__ - INFO - CUDA available: NVIDIA GeForce RTX 4070 Ti
+2025-08-03 23:59:29,595 - __main__ - INFO - CUDA memory: 12.0GB
+2025-08-03 23:59:29,600 - __main__ - INFO - System memory: 31.9GB total, 15.1GB available
+2025-08-03 23:59:29,600 - __main__ - INFO - Starting training...
+2025-08-03 23:59:29,600 - __main__ - INFO - Creating data loaders...
+2025-08-03 23:59:29,601 - dataloader.train - INFO - Checking cache for train set...
+2025-08-03 23:59:29,609 - dataloader.train - INFO - Cache complete for train set (99 files)
+2025-08-03 23:59:29,611 - dataloader.val - INFO - Checking cache for val set...
+2025-08-03 23:59:29,612 - dataloader.val - INFO - Cache complete for val set (24 files)
+2025-08-03 23:59:29,614 - __main__ - INFO - Train samples: 99
+2025-08-03 23:59:29,614 - __main__ - INFO - Val samples: 24
+2025-08-03 23:59:29,614 - train - INFO - Initializing model...
+2025-08-03 23:59:29,767 - train - INFO - Model parameters: 9,972,124 total, 9,972,124 trainable
+2025-08-03 23:59:30,614 - train - INFO - Initial memory usage: System 16.9GB
+2025-08-03 23:59:30,614 - train - INFO - Starting training for 100 epochs
+2025-08-03 23:59:30,614 - train - INFO - Device: cuda:0
+2025-08-03 23:59:30,615 - train - INFO - Batch size: 1
+2025-08-03 23:59:30,615 - train - INFO - Accumulation steps: 8
+2025-08-03 23:59:30,615 - train - INFO - Memory monitoring enabled: True
+2025-08-04 00:00:15,746 - __main__ - INFO - Process interrupted by user
+2025-08-04 00:00:23,268 - __main__ - INFO - Process completed
+2025-08-04 00:22:20,097 - __main__ - INFO - Starting Event Camera Semantic Segmentation - Mode: train
+2025-08-04 00:22:20,098 - __main__ - INFO - Configuration: event_seg_mamba_optimized
+2025-08-04 00:22:20,098 - __main__ - INFO - Data root: ./data
+2025-08-04 00:22:20,126 - __main__ - INFO - CUDA available: NVIDIA GeForce RTX 4070 Ti
+2025-08-04 00:22:20,126 - __main__ - INFO - CUDA memory: 12.0GB
+2025-08-04 00:22:20,130 - __main__ - INFO - System memory: 31.9GB total, 16.4GB available
+2025-08-04 00:22:20,131 - __main__ - INFO - Starting training...
+2025-08-04 00:22:20,131 - __main__ - INFO - Creating data loaders...
+2025-08-04 00:22:20,131 - dataloader.train - INFO - Checking cache for train set...
+2025-08-04 00:22:20,139 - dataloader.train - INFO - Cache complete for train set (99 files)
+2025-08-04 00:22:20,139 - dataloader.val - INFO - Checking cache for val set...
+2025-08-04 00:22:20,142 - dataloader.val - INFO - Cache complete for val set (24 files)
+2025-08-04 00:22:20,142 - __main__ - INFO - Train samples: 99
+2025-08-04 00:22:20,142 - __main__ - INFO - Val samples: 24
+2025-08-04 00:22:20,144 - train - INFO - Initializing model...
+2025-08-04 00:22:20,258 - train - INFO - Model parameters: 8,023,685 total, 8,023,685 trainable
+2025-08-04 00:22:21,026 - train - INFO - Initial memory usage: System 15.6GB
+2025-08-04 00:22:21,026 - train - INFO - Starting training for 100 epochs
+2025-08-04 00:22:21,026 - train - INFO - Device: cuda:0
+2025-08-04 00:22:21,026 - train - INFO - Batch size: 1
+2025-08-04 00:22:21,026 - train - INFO - Accumulation steps: 8
+2025-08-04 00:22:21,026 - train - INFO - Memory monitoring enabled: True
+2025-08-04 00:22:28,505 - train - INFO - Saved checkpoint: ./checkpoints\best_loss.pth
+2025-08-04 00:22:56,786 - __main__ - INFO - Process interrupted by user
+2025-08-04 00:27:37,276 - __main__ - INFO - Starting Event Camera Semantic Segmentation - Mode: train
+2025-08-04 00:27:37,277 - __main__ - INFO - Configuration: event_seg_mamba_optimized
+2025-08-04 00:27:37,277 - __main__ - INFO - Data root: ./data
+2025-08-04 00:27:37,299 - __main__ - INFO - CUDA available: NVIDIA GeForce RTX 4070 Ti
+2025-08-04 00:27:37,300 - __main__ - INFO - CUDA memory: 12.0GB
+2025-08-04 00:27:37,304 - __main__ - INFO - System memory: 31.9GB total, 16.1GB available
+2025-08-04 00:27:37,305 - __main__ - INFO - Starting training...
+2025-08-04 00:27:37,305 - __main__ - INFO - Creating data loaders...
+2025-08-04 00:27:37,306 - dataloader.train - INFO - Checking cache for train set...
+2025-08-04 00:27:37,313 - dataloader.train - INFO - Cache complete for train set (99 files)
+2025-08-04 00:27:37,314 - dataloader.val - INFO - Checking cache for val set...
+2025-08-04 00:27:37,316 - dataloader.val - INFO - Cache complete for val set (24 files)
+2025-08-04 00:27:37,318 - __main__ - INFO - Train samples: 99
+2025-08-04 00:27:37,318 - __main__ - INFO - Val samples: 24
+2025-08-04 00:27:37,319 - train - INFO - Initializing model...
+2025-08-04 00:27:37,446 - train - INFO - Model parameters: 8,023,685 total, 8,023,685 trainable
+2025-08-04 00:27:38,153 - train - INFO - Initial memory usage: System 15.9GB
+2025-08-04 00:27:38,153 - train - INFO - Starting training for 100 epochs
+2025-08-04 00:27:38,153 - train - INFO - Device: cuda:0
+2025-08-04 00:27:38,153 - train - INFO - Batch size: 1
+2025-08-04 00:27:38,153 - train - INFO - Accumulation steps: 8
+2025-08-04 00:27:38,153 - train - INFO - Memory monitoring enabled: True
+2025-08-04 00:27:45,953 - train - INFO - Saved checkpoint: ./checkpoints\best_loss.pth
+2025-08-04 00:28:55,450 - __main__ - INFO - Starting Event Camera Semantic Segmentation - Mode: train
+2025-08-04 00:28:55,450 - __main__ - INFO - Configuration: event_seg_mamba_optimized
+2025-08-04 00:28:55,450 - __main__ - INFO - Data root: ./data
+2025-08-04 00:28:55,474 - __main__ - INFO - CUDA available: NVIDIA GeForce RTX 4070 Ti
+2025-08-04 00:28:55,475 - __main__ - INFO - CUDA memory: 12.0GB
+2025-08-04 00:28:55,479 - __main__ - INFO - System memory: 31.9GB total, 16.2GB available
+2025-08-04 00:28:55,480 - __main__ - INFO - Starting training...
+2025-08-04 00:28:55,481 - __main__ - INFO - Creating data loaders...
+2025-08-04 00:28:55,481 - dataloader.train - INFO - Checking cache for train set...
+2025-08-04 00:28:55,488 - dataloader.train - INFO - Cache complete for train set (99 files)
+2025-08-04 00:28:55,490 - dataloader.val - INFO - Checking cache for val set...
+2025-08-04 00:28:55,492 - dataloader.val - INFO - Cache complete for val set (24 files)
+2025-08-04 00:28:55,493 - __main__ - INFO - Train samples: 99
+2025-08-04 00:28:55,493 - __main__ - INFO - Val samples: 24
+2025-08-04 00:28:55,494 - train - INFO - Initializing model...
+2025-08-04 00:28:55,581 - train - INFO - Model parameters: 129,269 total, 129,269 trainable
+2025-08-04 00:28:56,286 - train - INFO - Initial memory usage: System 15.8GB
+2025-08-04 00:28:56,286 - train - INFO - Starting training for 100 epochs
+2025-08-04 00:28:56,286 - train - INFO - Device: cuda:0
+2025-08-04 00:28:56,286 - train - INFO - Batch size: 1
+2025-08-04 00:28:56,286 - train - INFO - Accumulation steps: 8
+2025-08-04 00:28:56,286 - train - INFO - Memory monitoring enabled: True
+2025-08-04 00:29:03,975 - train - INFO - Saved checkpoint: ./checkpoints\best_loss.pth
