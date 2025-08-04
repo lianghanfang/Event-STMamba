@@ -9,7 +9,7 @@ A spatial-temporal guided mamba for event segmentation and detection
 https://github.com/ChenYichen9527/EV-UAV/tree/main
 
 浅尝了一下可学习的空间引导的mamba 
-是3D贪吃蛇罢（不是） <br />
+ <br 是3D贪吃蛇罢（不是） />
 
 # 如果有勇士（美食家）愿意品鉴 ↓ 下方是品鉴流程
 
@@ -33,5 +33,6 @@ python main.py --mode test --checkpoint ./checkpoints/best_iou.pth --data-root .
 ## 4. 完整流程
 
 python main.py --mode all --data-root ./data --memory-optimized
+
 
 
